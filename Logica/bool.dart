@@ -9,4 +9,6 @@ void main() {
   if (!isFalse) {
     print("Entrou");
   }
+  //posso tambem testar dentro do print o que contem dentro da variavel dessa forma
+  print(isFalse ? "Esta verdadeiro" : "Esta falso");
 }
