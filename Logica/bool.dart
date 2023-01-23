@@ -1,4 +1,6 @@
 void main() {
-  bool typeBool = false;
-  print(typeBool);
+  final a = "Alisson";
+  final b = "DEV";
+  final teste = a == b;
+  print(teste);
 }
